@@ -38,3 +38,4 @@ constraint. The rounded background view now needs to encompass the image view. A
 constraint. Then offset center x of the label by half this number. 
 
 ![screenshot](screenshot.png)
+![screenshot](screenshot.gif)
